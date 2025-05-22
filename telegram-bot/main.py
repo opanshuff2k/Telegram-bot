@@ -12,7 +12,7 @@ import os
 from datetime import datetime
 from io import BytesIO
 
-BOT_TOKEN = '7934454241:AAGrBfmwPnv1WjLPhc_ctzTXeOMPJ6GKPjw'
+BOT_TOKEN = '7934454241:AAEqtke_iXrU5N-AveoOl0NlK0YIQJgbrz8'
 ADMIN_ID = 7290606783
 
 # Initialize data storage
